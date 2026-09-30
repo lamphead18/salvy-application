@@ -1,0 +1,8 @@
+{
+  "nome": "Gabriel Franco Pigozzo",
+  "email": "gabrielfpigozzo@gmail.com",
+  "telefone": "+55 (85) 98126-3142",
+  "linkedin_url": "https://www.linkedin.com/in/gabriel-franco-pigozzo",
+  "cidade": "Eusébio - CE",
+  "projeto_orgulho": "O projeto pessoal de que mais me orgulho é o SalonSync, uma plataforma SaaS que construí para apoiar a operação de barbearias e salões. Trabalhei do produto à implementação full stack, incluindo agendamentos, fila de atendimento, financeiro, fidelização, comissões, assinaturas, agendamento público e automações via WhatsApp. No projeto, precisei ir além de implementar telas: tomei decisões de arquitetura, modelei regras de negócio, APIs e banco de dados e pensei na experiência de quem usa o sistema no dia a dia. A stack principal inclui React, TypeScript, Node.js/NestJS, Prisma e PostgreSQL. Tenho orgulho dele porque transformou um problema real em um produto que evolui continuamente. https://www.salonsync.com.br/"
+}
